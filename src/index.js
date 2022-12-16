@@ -16,7 +16,7 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 
 if (params.linkedin === 'true') {
   window.location.replace(
-    `https://sindanohealth.com/sindano/#/${window.location.search}`
+    `https://https://cratcha.github.io/sindano/#/${window.location.search}`
   );
 }
 /*
